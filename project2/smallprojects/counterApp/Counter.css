@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(186, 223, 211);
+ 
+  text-align: center;
+}
+.container{
+  background-color: rgb(234, 174, 229);
+  height: 150px;
+  width: 400px;
+  margin: auto 500px;
+}
+h1{
+  font-size: 36px;
+}
+.btn{
+  margin:50px 20px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(68, 122, 68);
+  color: white;
+  cursor: pointer;
+
+
+}
+.value{
+  font-size: 30px;
+  font-weight: 700;
+}
